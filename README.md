@@ -1,2 +1,2 @@
 # code-breaker-scala
-Game CodeBreaker
+Scala Code Breaker
